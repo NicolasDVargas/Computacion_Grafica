@@ -1,0 +1,9 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/Src",
+    "files.associations": {
+        "limits": "cpp",
+        "cmath": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}

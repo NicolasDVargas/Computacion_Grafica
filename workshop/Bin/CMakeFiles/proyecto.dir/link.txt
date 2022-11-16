@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/proyecto.dir/Main.cpp.o CMakeFiles/proyecto.dir/RgbImage.cpp.o CMakeFiles/proyecto.dir/simpleobjloader.cxx.o CMakeFiles/proyecto.dir/tgaimg.cxx.o -o proyecto  -lGL -lGLU -lglut -lXmu -lXi 

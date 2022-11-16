@@ -1,0 +1,3 @@
+/home/ndaniel/Documents/CompuGrafica/proyecto/workshop/Bin/CMakeFiles/proyecto.dir
+/home/ndaniel/Documents/CompuGrafica/proyecto/workshop/Bin/CMakeFiles/edit_cache.dir
+/home/ndaniel/Documents/CompuGrafica/proyecto/workshop/Bin/CMakeFiles/rebuild_cache.dir
